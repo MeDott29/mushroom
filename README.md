@@ -55,7 +55,7 @@ ssh-copy-id user@machine1
 
 3. Run the initialization script:
 ```bash
-python setup_network.py
+python mushroom_alpha.py
 ```
 
 ## 🏗️ Architecture
