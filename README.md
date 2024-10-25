@@ -1,0 +1,1 @@
+a distributed system for my home network for creating visualizations with manim quickly.
